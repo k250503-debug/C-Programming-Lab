@@ -11,3 +11,14 @@ It is designed to help beginners understand the basics of C, including variables
 - JavaScript
 - C++
 - Java
+
+# Programming Lab (Heading Example)
+Welcome to my **C Programming Lab** repository.  
+This is where I keep my *practice programs* and ~~old code~~.  
+
+## Example Code Block
+
+## To-Do List
+- [x] Complete Hello World program
+- [x] Swap Two Numbers
+- [ ] Finish all Lab Tasks
