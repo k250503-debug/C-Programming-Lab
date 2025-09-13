@@ -21,4 +21,9 @@ This is where I keep my *practice programs* and ~~old code~~.
 ## To-Do List
 - [x] Complete Hello World program
 - [x] Swap Two Numbers
-- [ ] Finish all Lab Tasks
+- [x] Age + Height Input
+- [x] Escape Sequences
+- [x] Age Calculation
+- [x] Age in Months & Day
+- [x] Finish all Lab Tasks
+
