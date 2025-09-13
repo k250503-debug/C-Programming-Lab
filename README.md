@@ -19,11 +19,19 @@ This is where I keep my *practice programs* and ~~old code~~.
 ## Example Code Block
 
 ## To-Do List
-- [x] Complete Hello World program
+- [x] Hello World program
 - [x] Swap Two Numbers
 - [x] Age + Height Input
 - [x] Escape Sequences
 - [x] Age Calculation
 - [x] Age in Months & Day
-- [x] Finish all Lab Tasks
+- [x] grade
+- [x] traffic signal
+- [x] basic calculator
+- [x] Leap Year
+- [x] negative and positive number
+- [x] days
+- [x] password
+
+
 
