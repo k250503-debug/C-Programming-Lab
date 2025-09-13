@@ -10,7 +10,7 @@ It is designed to help beginners understand the basics of C, including variables
 - Python
 - JavaScript
 - C++
-- Java
+- HTML
 
 # Programming Lab (Heading Example)
 Welcome to my **C Programming Lab** repository.  
